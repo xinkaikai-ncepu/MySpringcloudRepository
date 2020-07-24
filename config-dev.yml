@@ -5,4 +5,4 @@ spring:
     name: cloud-provider-hystrix-payment
 
 profile:
-  dev
+  master: dev
