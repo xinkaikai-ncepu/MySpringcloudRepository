@@ -6,3 +6,7 @@ spring:
 
 profile:
   master: dev
+config:
+  info: 
+    profile: dev
+    version: 1
