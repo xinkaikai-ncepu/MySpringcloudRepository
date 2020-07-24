@@ -1,0 +1,8 @@
+server:
+  port: 8003
+spring:
+  application:
+    name: cloud-provider-hystrix-payment
+
+profile:
+  dev
