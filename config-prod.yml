@@ -1,2 +1,2 @@
-config:
-  info: "branch master, version=2"
+config: 
+  info: config-prod.yml, version=1
